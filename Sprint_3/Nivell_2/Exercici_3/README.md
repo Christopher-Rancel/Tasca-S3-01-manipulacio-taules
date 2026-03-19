@@ -1,6 +1,5 @@
 # Nivell 2 - Exercici 3
 
-## Filtrat de la vista VistaMarketing
 
 ## Descripció
 En aquest exercici s’ha utilitzat la vista `VistaMarketing` per obtenir informació específica de les companyies.
