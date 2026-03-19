@@ -1,6 +1,5 @@
 # Nivell 2 - Exercici 1
 
-## Eliminació d'un registre
 
 ## Descripció
 En aquest exercici s’ha eliminat un registre concret de la taula `transaction` a partir del seu identificador.
