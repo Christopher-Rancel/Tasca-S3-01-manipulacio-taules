@@ -1,4 +1,4 @@
-# Exercici 1 - Credit Card
+# Nivell 1 - Exercici 1
 
 ## Crea una taula anomenada `credit_card` que permeti emmagatzemar els detalls de les targetes de crèdit. Estableix una relació amb la taula `transaction` i mostra el diagrama EER resultant, tot fent una breu descripció.
 
