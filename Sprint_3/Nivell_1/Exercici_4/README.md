@@ -1,4 +1,4 @@
-# Exercici 4 - Eliminació d'una columna
+# Nivell 1 - Exercici 4
 
 ## Descripció
 En aquest exercici s’ha eliminat la columna `pan` de la taula `credit_card`, tal com s’indica a l’enunciat.
