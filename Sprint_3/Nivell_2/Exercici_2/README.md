@@ -1,6 +1,5 @@
 # Nivell 2 - Exercici 2
 
-## Creació d'una vista per a màrqueting
 
 ## Descripció
 En aquest exercici s’ha creat una vista anomenada `VistaMarketing` per proporcionar informació rellevant sobre les companyies i les seves transaccions.
