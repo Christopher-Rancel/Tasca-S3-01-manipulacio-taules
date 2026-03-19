@@ -1,4 +1,4 @@
-# Exercici 3 - Inserció d'una nova transacció
+# Nivell 1 - Exercici 3
 
 ## En la taula `transaction` ingressa una nova transacció amb la informació proporcionada.
 
