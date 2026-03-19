@@ -1,4 +1,4 @@
-# Exercici 2 - Actualització IBAN
+# Nivell 1 - Exercici 2
 
 ## El departament de Recursos Humans ha identificat un error en el número de compte associat a la targeta de crèdit amb ID CcU-2938. La informació correcta és TR323456312213576817699999. Mostra que el canvi s’ha realitzat.
 
